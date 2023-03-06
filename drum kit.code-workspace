@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "drum kit",
+			"path": "."
+		},
+		{
+			"name": "sounds",
+			"path": "../../../Downloads/Drum Kit Starting Files/Drum Kit Starting Files/sounds"
+		},
+		{
+			"name": "images",
+			"path": "../../../Downloads/Drum Kit Starting Files/Drum Kit Starting Files/images"
+		}
+	],
+	"settings": {}
+}
